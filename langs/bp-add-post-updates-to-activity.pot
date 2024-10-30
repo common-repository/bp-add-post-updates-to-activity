@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: BP Add Post Updates to Activity\n"
+"POT-Creation-Date: 2019-04-16 17:16+0100\n"
+"PO-Revision-Date: 2019-04-16 17:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bp-add-post-updates-to-activity.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bp-add-post-updates-to-activity.php:52
+msgid "If you like it, please review the plugin"
+msgstr ""
+
+#: bp-add-post-updates-to-activity.php:52
+msgid "Review the plugin"
+msgstr ""
+
+#: bp-add-post-updates-to-activity.php:57
+msgid "Settings"
+msgstr ""
+
+#: inc/bpapu-add-activity.php:160
+msgctxt "bp-add-post-updates-to-activity"
+msgid "updated"
+msgstr ""
+
+#: inc/bpapu-add-activity.php:160
+msgid "<a href=\""
+msgstr ""
+
+#: inc/bpapu-admin-options.php:13
+msgctxt "bp-add-post-updates-to-activity"
+msgid "bp-add-post-updates-to-activity"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:27
+msgid "bp-add-post-updates-to-activity"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:35
+msgid "Save Changes"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:63
+msgid "Post Types"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:66
+msgid "Post Types that will be updated to Activity "
+msgstr ""
+
+#: inc/bpapu-admin-options.php:70
+msgid "Repost Delay"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:72
+msgid "Minimum delay to repost the same post update."
+msgstr ""
+
+#: inc/bpapu-admin-options.php:76
+msgid "Content to include in update."
+msgstr ""
+
+#: inc/bpapu-admin-options.php:78
+msgid "Content to be included in activity update"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:84
+msgid ""
+"<p>You can specify the post types to  post updates to Activity. By default "
+"it works on Posts only.</p><p>Note that some post types may already post "
+"updates to Activity and selecting them here may result in two updates.</p>"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:91
+msgid ""
+"<p>The minimum delay between posting updates to activity for the same post.</"
+"p>"
+msgstr ""
+
+#: inc/bpapu-admin-options.php:98
+msgid ""
+"<p>The content that will be included in the activity update can be selected "
+"here.</p>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BP Add Post Updates to Activity"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://buddyuser.com/plugin-bp-add-post-updates-to-activity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin adds post updates to the BuddyPress Activity Stream"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Venutius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.buddyuser.com"
+msgstr ""
